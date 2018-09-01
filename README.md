@@ -1,8 +1,15 @@
 <html>
 <head>
-Jiang Xinyun
+<title>jxy</title>
 </head>
-
+<body>
+<table width="200" height="200">
+<tr>
+<td>
+<img src="https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/loki.jpg" width="120" height="120"></td>
+</tr>
+</table>
+</body>
 </html> 
 
 Master Student, School of Construction Management and Real Estate,
