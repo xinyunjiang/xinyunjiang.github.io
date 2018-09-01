@@ -1,4 +1,4 @@
-<p align="center">Jiang Xinyun</p><img src="https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/loki.jpg" width="150" height="150" align="right" /> 
+<img src="https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/loki.jpg" width="150" height="150" align="right" /> 
 
 Master Student, School of Construction Management and Real Estate,
 
