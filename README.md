@@ -1,4 +1,5 @@
-# Jiang Xinyun                                                                          
+# Jiang Xinyun   
+<img width="150" height="150" src="https://github.com/xinyunjiang/xinyunjiang.github.io/raw/master/images/loki.jpg"/>
 
 Master Student, School of Construction Management and Real Estate,
 
