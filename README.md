@@ -1,10 +1,12 @@
 # Jiang Xinyun
 <div align=right><img width="150" height="150" src="https://github.com/xinyunjiang/xinyunjiang.github.io/raw/master/images/loki.jpg"/></div>
 
+<p align="center">
 Master Student, School of Construction Management and Real Estate,
-
+</p>
+<p align="center">
 Chongqing University, Chongqing, China, 400044
-
+</p>
 +86 17723897645;
 
 lucky_j@cqu.edu.cn
