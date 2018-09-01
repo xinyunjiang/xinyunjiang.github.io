@@ -56,7 +56,7 @@ Health tourism
 
 ## RESEARCH EXPERIENCE
 
-**Research assistant** of Associate Professor He, Shenjing in Urban Planning and Design, Faculty of Architecture in the University of Hongkong                                                                                                   2017.07-2018.01
+**Research assistant** of Associate Professor He, Shenjing in Urban Planning and Design, Faculty of Architecture in the University of Hongkong                                                                                                     2017.07-2018.01
  
 ## INTERNSHIPS    
 
