@@ -34,13 +34,13 @@ B.E.            **Quantity Surveying**. Chongqing University, Chongqing, 2012-20
 
 ## SUBMITTED PEER-REVIEWED PUBLICATIONS
 
-**Jiang Xinyun**, Zhou Tao. “Regional Response to Population Mobility under Ecological Resettlement: Evidence from Chongqing, China” (submitted to Journal of Cleaner Production)
+**Jiang Xinyun**, Zhou Tao. “Regional Response to Population Mobility under Ecological Resettlement: Evidence from Chongqing, China” (submitted to _Journal of Cleaner Production_)
 
 ## PEER-REVIEWED CONFERENCE PRESENTATIONS
 
 **Jiang Xinyun**. 2017. “The effects of Resettlement Policies on Regional Development: A Case Study of Wanzhou District in Chongqing, China” 2017 International Association for China Planning, June 16-18, Harbin, China.
 
-**Jiang Xinyun**. 2018. “Regional Response to Population Mobility under Ecological Resettlement: Evidence from Chongqing, China” 2018 International Conference on China’s New Urban Agenda: an international dialogue on sustainable development, November 1-2, Manchester, England (registered). 
+**Jiang Xinyun**. 2018. “Regional Response to Population Mobility under Ecological Resettlement: Evidence from Chongqing, China” 2018 International Conference on China’s New Urban Agenda: an international dialogue on sustainable development, November 1-2, Manchester, England (_registered_). 
 
 ## PROJECTS
 
