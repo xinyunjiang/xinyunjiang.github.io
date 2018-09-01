@@ -1,5 +1,7 @@
 # Jiang Xinyun
 
+![image](https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/QQ图片20180427221655.jpg)
+
 Master Student, School of Construction Management and Real Estate,
 
 Chongqing University, Chongqing, China, 400044
