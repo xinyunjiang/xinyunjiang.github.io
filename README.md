@@ -1,5 +1,7 @@
 # Jiang Xinyun
 
+![image](https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/loki.jpg)
+
 Master Student, School of Construction Management and Real Estate,
 
 Chongqing University, Chongqing, China, 400044
