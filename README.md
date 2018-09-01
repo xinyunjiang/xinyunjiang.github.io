@@ -12,7 +12,7 @@ lucky_j@cqu.edu.cn
 
 M.E.            **Management Science and Engineering**. Chongqing University, Chongqing, 2016-Present
 
-B.E.            **Quantity Surveying**. Chongqing University, Chongqing, 2012-2016 (GPA 3.58/4.00)
+B.E.            **Quantity Surveying**. Chongqing University, Chongqing, 2012-2016 (_GPA 3.58/4.00_)
 
 ## HONORS AND AWARDS
 
