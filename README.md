@@ -9,11 +9,7 @@ Chongqing University, Chongqing, China, 400044
 </p>
 
 <p align="center">
-+86 17723897645;
-</p>
-
-<p align="center">
-lucky_j@cqu.edu.cn
++86 17723897645;lucky_j@cqu.edu.cn
 </p>
 
 ## EDUCATION
