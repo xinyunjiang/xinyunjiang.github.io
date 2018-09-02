@@ -1,5 +1,6 @@
-Jiang Xinyun
+<font face="Times New Roman" color=blue size=5>Jiang Xinyun</font>
 ===========
+
 <img src="https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/loki.jpg" width="150" height="150" align="right" /> 
 
 Master Student, School of Construction Management and Real Estate,
@@ -12,9 +13,9 @@ lucky_j@cqu.edu.cn
 
 ## EDUCATION
 
-M.E.            **Management Science and Engineering**. Chongqing University, Chongqing, 2016-Present
+M.E. **Management Science and Engineering**. Chongqing University, Chongqing, 2016-Present
 
-B.E.            **Quantity Surveying**. Chongqing University, Chongqing, 2012-2016 (_GPA 3.58/4.00_)
+B.E. **Quantity Surveying**. Chongqing University, Chongqing, 2012-2016 (_GPA 3.58/4.00_)
 
 ## HONORS AND AWARDS
 
