@@ -1,6 +1,4 @@
-<meta name="keywords" content="Lequan Yu, Yu Lequan, Lequan, CSE, CUHK, The Chinese University of Hong Kong, zju, Zhejiang University"> 
-
-<meta name="description" content="Lequan Yu&#39;s home page">
+# Jiang Xinyun
 
 <img src="https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/loki.jpg" width="150" height="150" align="right" /> 
 
