@@ -1,4 +1,4 @@
-**<p align = "center"><font size=7> Jiang Xinyun </font></p>**
+**<p align = "center"> Jiang Xinyun </p>**
 
 
 <img src="https://github.com/xinyunjiang/xinyunjiang.github.io/blob/master/images/loki.jpg" width="150" height="150" align="right" /> 
